@@ -40,6 +40,7 @@
   <header>
     <h1>ToolHubs-1</h1>
   </header>
+  
 
   <select id="toolSelector">
     <option value="password">Password Generator</option>
@@ -132,6 +133,17 @@
     <button onclick="convertUnit()">Convert</button>
     <p id="unitResult"></p>
   </section>
+  <!-- AdSense Ad Unit -->ca-app-pub-8773480799818158/9055111364      
+        <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8773480799818158"
+     data-ad-slot="9055111364"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window
+                     (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
 
   <script>
     const sections = document.querySelectorAll('.tool');
