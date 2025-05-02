@@ -40,11 +40,11 @@
   <header>
     <h1>ToolHubs-1</h1>
   </header>
-  <!-- AdSense Ad Unit -->ca-pub-8773480799818158/5072843171     
+  <!-- AdSense Ad Unit -->ca-pub-8773480799818158/5041129567  
      <ins class="adsbygoogle" 
      style="display:block"
      data-ad-client="ca-pub-8773480799818158"
-     data-ad-slot="5072843171"
+     data-ad-slot="5041129567"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 <script>
